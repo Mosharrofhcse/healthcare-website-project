@@ -1,0 +1,9 @@
+.footer {
+    background-color:gainsboro;
+    color:black;
+}
+.footer-bottom {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-top: 2px solid whitesmoke;
+}

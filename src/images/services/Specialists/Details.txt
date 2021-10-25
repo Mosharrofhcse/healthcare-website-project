@@ -1,0 +1,13 @@
+<div>
+                                <img class="img-responsive w3-hover-grayscale" src="//visioneyebd.org/uploads/doctors/77b4ae3834cd4754514101337d81299c.PNG" alt="Dr. Md. Shafiquer Rahman">
+                                <h5>Dr. Md. Shafiquer Rahman</h5>
+                            </div>
+
+
+<button class="btn bg_color" style="width:100%; margin-top:5px; color:#fff;">View
+                                        Details
+                                    </button>
+
+.bg_color {
+    background: #FC6336;
+}

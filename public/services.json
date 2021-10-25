@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiology",
+        "price": "1500",
+        "description": "Department of Cardiology provides consultation services in level-5 (OPD) through highly qualified and experienced Consultants,",
+        "img": "img-service/1-Cardiology.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Child Care",
+        "price": "1000",
+        "description": "The children, who have come for the first time, are taken to our ‘Walk-In-Clinic, ‘Epilepsy Clinic, the ‘High Risk Baby’ to ‘Multiple disability clinic: ",
+        "img": "img-service/2-childcare.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vaccination",
+        "price": "2000",
+        "description": "The COVID-19 vaccines are safe for most people 18 years and older, including those with pre-existing conditions of any kind,",
+        "img": "img-service/3-vaccination.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Elderly Care",
+        "price": "7000",
+        "description": "Elderly care, or simply eldercare, serves the needs and requirements of senior citizens. It encompasses assisted living, adult daycare",
+        "img": "img-service/4-elderCare.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Eye Care",
+        "price": "3000",
+        "description": "We have a group of highly energetic, highly qualified and competent ophthalmologists of various sub-specialities.",
+        "img": "img-service/5-eyecare.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Diagnostic",
+        "price": "4500",
+        "description": "Diagnostic & Interventional Radiology Department of Evercare Hospital Dhaka offers state-of-the-art diagnostic imaging services",
+        "img": "img-service/6-laboratory.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Internal Medicine",
+        "price": "1500",
+        "description": "Department of Internal Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults.",
+        "img": "img-service/7-medicine.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dental Consultants",
+        "price": "2500",
+        "description": "Our Dental Consultants attend patient’s routine dental checkup and recommend appropriate specialized dental care where required.",
+        "img": "img-service/8-dentalcare.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Medical Surgery",
+        "price": "30000",
+        "description": "Surgery is a medical specialty that uses operative manual and instrumental techniques on a person to treat a pathological condition",
+        "img": "img-service/9-surgery.jpg"
+    }
+]

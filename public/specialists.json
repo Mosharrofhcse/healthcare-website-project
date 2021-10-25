@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "DR. M. A. MUSTAFA HOSSAIN",
+        "specialized": "Medical Oncology",
+        "img": "img-service/specialists/specialist-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Md. Hasanuzzaman",
+        "specialized": "MBBS, MS (Ortho.)",
+        "img": "img-service/specialists/specialist-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Prof. Dr. Colonel Zahid",
+        "specialized": "D.Card (London)",
+        "img": "img-service/specialists/specialist-3.png"
+    },
+    {
+        "id": 4,
+        "name": "Dr. SB Rasel",
+        "specialized": "MBBS, MD (Nephrology)",
+        "img": "img-service/specialists/specialist-4.png"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Md. Shafiquer Rahman",
+        "specialized": "Dental Surgery",
+        "img": "img-service/specialists/specialist-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Prof. Dr. Q M Iqbal Hossain",
+        "specialized": "Radiation Oncology",
+        "img": "img-service/specialists/specialist-6.png"
+    }
+]
